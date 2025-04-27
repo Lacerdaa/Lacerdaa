@@ -38,3 +38,10 @@ I'm building hands-on projects, studying for certifications, and preparing to wo
 ---
 
 *Driven by passion for technology and constant learning.*
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacerdaa&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacerdaa&layout=compact)
+
