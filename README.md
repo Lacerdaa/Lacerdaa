@@ -45,3 +45,7 @@ I'm building hands-on projects, studying for certifications, and preparing to wo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacerdaa&layout=compact)
 
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lacerdaa&theme=default)
+
