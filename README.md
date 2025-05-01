@@ -53,7 +53,8 @@ Infrastructure as Code to launch VPC + EC2 + S3 via CloudFormation templates
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacerdaa&layout=compact)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lacerdaa&theme=default)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lacerdaa&theme=default)
+
 
 ---
 
